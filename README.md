@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0014,50:3b0a45,100:8b0000&height=220&section=header&text=night%20terrors&fontColor=e0d0ff&fontSize=60&fontAlignY=38&desc=//%20can't%20sleep.%20keep%20coding.&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=B388FF&center=true&vCenter=true&width=520&lines=while(true)+%7B+dream();+%7D;3+AM+commits+only;bugs+are+just+nightmares+with+stack+traces;sleep+is+a+deprecated+feature" alt="typing" />
 
 <br/><br/>
@@ -102,6 +100,5 @@ class Me:
 
 `last seen: 03:00 — still not sleeping`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:3b0a45,100:0d0014&height=120&section=footer" width="100%" />
 
 </div>
