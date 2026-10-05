@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=B388FF&center=true&vCenter=true&width=520&lines=while(true)+%7B+dream();+%7D;3+AM+commits+only;bugs+are+just+nightmares+with+stack+traces;sleep+is+a+deprecated+feature" alt="typing" />
-
-<br/><br/>
-
 <img src="https://i.postimg.cc/XqB5St17/IMG-7151.gif" width="85%" alt="" />
+
+<br></br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=B388FF&center=true&vCenter=true&width=520&lines=while(true)+%7B+dream();+%7D;3+AM+commits+only;bugs+are+just+nightmares+with+stack+traces;sleep+is+a+deprecated+feature" alt="typing" />
 
 </div>
 
