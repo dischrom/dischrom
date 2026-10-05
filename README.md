@@ -81,7 +81,7 @@ class Me:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d0014&title_color=b388ff&icon_color=ff5252&text_color=d1c4e9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dischrom&show_icons=true&hide_border=true&bg_color=0d0014&title_color=b388ff&icon_color=ff5252&text_color=d1c4e9" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dischrom&layout=compact&hide_border=true&bg_color=0d0014&title_color=b388ff&text_color=d1c4e9" />
 
 <br/>
