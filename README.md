@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2a2a2a,100:e8e8e8&height=230&section=header&text=NIGHT%20TERRORS&fontColor=f2f2f2&fontSize=58&fontAlignY=40&stroke=000000&strokeWidth=2&desc=%F0%9F%91%81%EF%B8%8F%20%D0%BE%D0%BD%D0%B8%20%D0%B2%D1%81%D1%91%20%D0%B5%D1%89%D1%91%20%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8F%D1%82&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://share.google/images/2wKA3JAaEABihMpZU" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=24&duration=3200&pause=900&color=D9D9D9&center=true&vCenter=true&width=560&lines=%D0%BD%D0%B5+%D0%BE%D0%B1%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%B9%D1%81%D1%8F;%D0%BA%D0%BE%D0%B4+%D0%BF%D0%B8%D1%88%D0%B5%D1%82%D1%81%D1%8F+%D0%B2+%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D1%82%D0%B5;%D0%B2+%D0%BA%D0%BE%D0%B4%D0%B5+%D0%BA%D1%82%D0%BE-%D1%82%D0%BE+%D0%B6%D0%B8%D0%B2%D1%91%D1%82;%D0%BF%D0%BE%D1%81%D0%BB%D0%B5+3+%D1%83%D1%82%D1%80%D0%B0+%D0%B1%D0%B0%D0%B3%D0%B8+%D0%BE%D1%82%D0%B2%D0%B5%D1%87%D0%B0%D1%8E%D1%82+%D0%BD%D0%B0+%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%8B" alt="typing" />
 
