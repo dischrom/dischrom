@@ -18,7 +18,7 @@
 
 ```python
 class Me:
-    name     = "Roman"
+    name     = "?¿"
     alias    = "dischrom"
     status   = "awake at 3 AM"
     mood     = "deep purple"
@@ -47,23 +47,18 @@ class Me:
 </td>
 <td width="60%" valign="top">
 
-- 🌑 пишу код, когда нормальные люди уже спят
-- 🕷️ строю ботов и автоматизацию — всё, что работает само, пока я не смотрю
-- 🩸 учусь: *добавь, что изучаешь сейчас*
-- 👁️ 
-- 📫 связь: Tg:@sosunpipisek / Ds: dischrom /
+- 🕷️ I build bots and automation - everything that works by itself while I'm not watching
+
+- 🩸 I'm learning: playwright
+
+👁️
+
+- 📫 communication: Tg:@sosunpipisek / Ds: dischrom /
 
 </td>
 </tr>
 </table>
 
-### `> ls ./nightmares`
-
-| проект | описание | стек |
-|---|---|---|
-| 🕯️ **project-one** | коротко о проекте | `Python` |
-| 🕯️ **project-two** | коротко о проекте | `...` |
-| 🕯️ **project-three** | коротко о проекте | `...` |
 
 ### `> ./stack.sh`
 
