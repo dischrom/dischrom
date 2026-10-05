@@ -18,11 +18,11 @@
 
 ```python
 class Me:
-    name     = "YOUR_NAME"
-    alias    = "YOUR_USERNAME"
+    name     = "Roman"
+    alias    = "dischrom"
     status   = "awake at 3 AM"
     mood     = "deep purple"
-    stack    = ["Python", "aiogram", "..."]
+    stack    = ["Python", "aiogram", "playwright"]
     fear     = "unhandled exceptions"
     fuel     = "dark ambient / night playlists"
 ```
@@ -50,8 +50,8 @@ class Me:
 - 🌑 пишу код, когда нормальные люди уже спят
 - 🕷️ строю ботов и автоматизацию — всё, что работает само, пока я не смотрю
 - 🩸 учусь: *добавь, что изучаешь сейчас*
-- 👁️ ищу: *добавь, чем хочешь заниматься / с кем коллабить*
-- 📫 связь: *Telegram / Discord / email*
+- 👁️ 
+- 📫 связь: Tg:@sosunpipisek / Ds: dischrom /
 
 </td>
 </tr>
