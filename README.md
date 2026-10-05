@@ -36,28 +36,31 @@ class Me:
 </tr>
 </table>
 
-### `> cat about.txt`
 
-<table>
-<tr>
-<td width="40%" align="center">
+## > cat about.txt
 
-<img src="https://i.postimg.cc/fyvNLRrF/IMG-7149.gif" width="100%" alt="" />
+<div align="center">
 
-</td>
-<td width="60%" valign="top">
+<img src="https://i.postimg.cc/fyvNLRrF/IMG-7149.gif" width="260" alt="" />
 
-- 🕷️ I build bots and automation - everything that works by itself while I'm not watching
+</div>
 
-- 🩸 I'm learning: playwright
+```text
+┌──────────────────────────────────────┐
+│  🕷  role      bots & automation     │
+│  🩸  learning  playwright            │
+│  👁  motto     works while I'm away  │
+└──────────────────────────────────────┘
 
-👁️
 
-- 📫 communication: Tg:@sosunpipisek / Ds: dischrom /
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://t.me/sosunpipisek">
+    <img src="https://img.shields.io/badge/Telegram-@sosunpipisek-1a0b2e?style=for-the-badge&logo=telegram&logoColor=c084fc" />
+  </a>
+  <a href="https://discord.com/users/dischrom">
+    <img src="https://img.shields.io/badge/Discord-dischrom-1a0b2e?style=for-the-badge&logo=discord&logoColor=c084fc" />
+  </a>
+</p>
 
 
 ### `> ./stack.sh`
