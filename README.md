@@ -52,7 +52,6 @@ class Me:
 │  👁  motto     works while I'm away  │
 └──────────────────────────────────────┘
 
-
 <p align="center">
   <a href="https://t.me/sosunpipisek">
     <img src="https://img.shields.io/badge/Telegram-@sosunpipisek-1a0b2e?style=for-the-badge&logo=telegram&logoColor=c084fc" />
@@ -65,6 +64,7 @@ class Me:
 </td>
 </tr>
 </table>
+ 
 
 ### `> ./stack.sh`
 
