@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://i.postimg.cc/XqB5St17/IMG-7151.gif" width="100%" alt="" />
+<img src="assets/title.svg" width="100%" alt="NIGHT TERRORS" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=24&duration=3200&pause=900&color=D9D9D9&center=true&vCenter=true&width=560&lines=%D0%BD%D0%B5+%D0%BE%D0%B1%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%B9%D1%81%D1%8F;%D0%BA%D0%BE%D0%B4+%D0%BF%D0%B8%D1%88%D0%B5%D1%82%D1%81%D1%8F+%D0%B2+%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D1%82%D0%B5;%D0%B2+%D0%BA%D0%BE%D0%B4%D0%B5+%D0%BA%D1%82%D0%BE-%D1%82%D0%BE+%D0%B6%D0%B8%D0%B2%D1%91%D1%82;%D0%BF%D0%BE%D1%81%D0%BB%D0%B5+3+%D1%83%D1%82%D1%80%D0%B0+%D0%B1%D0%B0%D0%B3%D0%B8+%D0%BE%D1%82%D0%B2%D0%B5%D1%87%D0%B0%D1%8E%D1%82+%D0%BD%D0%B0+%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%8B" alt="typing" />
 
@@ -8,11 +9,9 @@
 
 <br/>
 
-```
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
-```
+<img src="assets/divider.svg" width="100%" alt="" />
 
-### 👁️ кто здесь
+### 👁️ к̷т̶о̸ ̵з̷д̴е̶с̸ь̷
 
 <table>
 <tr>
@@ -57,11 +56,9 @@ class Me:
 </tr>
 </table>
 
-```
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
-```
+<img src="assets/divider.svg" width="100%" alt="" />
 
-### 🩸 проекты
+### 🩸 п̸р̷о̶е̴к̸т̵ы̷
 
 | | проект | описание | стек |
 |---|---|---|---|
@@ -100,6 +97,6 @@ class Me:
 
 <img src="https://i.postimg.cc/D01q4trg/IMG-7152.jpg" width="60%" alt="" />
 
-`ты всё ещё не спишь?`
+`т̷ы̶ ̸в̵с̶ё̷ ̴е̸щ̶ё̷ ̵н̴е̶ ̸с̷п̵и̶ш̴ь̸?̷`
 
 </div>
