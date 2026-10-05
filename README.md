@@ -62,6 +62,9 @@ class Me:
   </a>
 </p>
 
+</td>
+</tr>
+</table>
 
 ### `> ./stack.sh`
 
