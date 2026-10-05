@@ -82,11 +82,11 @@ class Me:
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d0014&title_color=b388ff&icon_color=ff5252&text_color=d1c4e9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d0014&title_color=b388ff&text_color=d1c4e9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dischrom&layout=compact&hide_border=true&bg_color=0d0014&title_color=b388ff&text_color=d1c4e9" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d0014&ring=ff5252&fire=ff5252&currStreakLabel=b388ff&sideLabels=d1c4e9&currStreakNum=d1c4e9&sideNums=d1c4e9&dates=7e57c2" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dischrom&hide_border=true&background=0d0014&ring=ff5252&fire=ff5252&currStreakLabel=b388ff&sideLabels=d1c4e9&currStreakNum=d1c4e9&sideNums=d1c4e9&dates=7e57c2" />
 
 </div>
 
