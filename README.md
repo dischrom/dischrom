@@ -1,73 +1,80 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0014,50:3b0a45,100:8b0000&height=220&section=header&text=night%20terrors&fontColor=e0d0ff&fontSize=60&fontAlignY=38&desc=//%20can't%20sleep.%20keep%20coding.&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2a2a2a,100:e8e8e8&height=230&section=header&text=NIGHT%20TERRORS&fontColor=f2f2f2&fontSize=58&fontAlignY=40&stroke=000000&strokeWidth=2&desc=%F0%9F%91%81%EF%B8%8F%20%D0%BE%D0%BD%D0%B8%20%D0%B2%D1%81%D1%91%20%D0%B5%D1%89%D1%91%20%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8F%D1%82&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=B388FF&center=true&vCenter=true&width=520&lines=while(true)+%7B+dream();+%7D;3+AM+commits+only;bugs+are+just+nightmares+with+stack+traces;sleep+is+a+deprecated+feature" alt="typing" />
-
-</div>
-
----
-
-### `> whoami`
-
-```python
-class Me:
-    name     = "YOUR_NAME"
-    alias    = "YOUR_USERNAME"
-    status   = "awake at 3 AM"
-    mood     = "deep purple"
-    stack    = ["Python", "aiogram", "..."]
-    fear     = "unhandled exceptions"
-    fuel     = "dark ambient / night playlists"
-```
-
-### `> cat about.txt`
-
-- 🌑 пишу код, когда нормальные люди уже спят
-- 🕷️ строю ботов и автоматизацию — всё, что работает само, пока я не смотрю
-- 🩸 учусь: *добавь, что изучаешь сейчас*
-- 👁️ ищу: *добавь, чем хочешь заниматься / с кем коллабить*
-- 📫 связь: *Telegram / Discord / email*
-
-### `> ls ./nightmares  # проекты`
-
-| проект | описание | стек |
-|---|---|---|
-| 🕯️ **project-one** | коротко о проекте | `Python` |
-| 🕯️ **project-two** | коротко о проекте | `...` |
-| 🕯️ **project-three** | коротко о проекте | `...` |
-
-### `> ./stack.sh`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-1a0a2e?style=for-the-badge&logo=python&logoColor=b388ff)
-![Git](https://img.shields.io/badge/Git-1a0a2e?style=for-the-badge&logo=git&logoColor=ff5252)
-![Linux](https://img.shields.io/badge/Linux-1a0a2e?style=for-the-badge&logo=linux&logoColor=b388ff)
-![Telegram](https://img.shields.io/badge/Telegram-1a0a2e?style=for-the-badge&logo=telegram&logoColor=ff5252)
-![Discord](https://img.shields.io/badge/Discord-1a0a2e?style=for-the-badge&logo=discord&logoColor=b388ff)
+<img src="https://readme-typing-svg.demolab.com?font=Creepster&size=24&duration=3200&pause=900&color=D9D9D9&center=true&vCenter=true&width=560&lines=%D0%BD%D0%B5+%D0%BE%D0%B1%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%B9%D1%81%D1%8F;%D0%BA%D0%BE%D0%B4+%D0%BF%D0%B8%D1%88%D0%B5%D1%82%D1%81%D1%8F+%D0%B2+%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D1%82%D0%B5;%D0%B2+%D0%BA%D0%BE%D0%B4%D0%B5+%D0%BA%D1%82%D0%BE-%D1%82%D0%BE+%D0%B6%D0%B8%D0%B2%D1%91%D1%82;%D0%BF%D0%BE%D1%81%D0%BB%D0%B5+3+%D1%83%D1%82%D1%80%D0%B0+%D0%B1%D0%B0%D0%B3%D0%B8+%D0%BE%D1%82%D0%B2%D0%B5%D1%87%D0%B0%D1%8E%D1%82+%D0%BD%D0%B0+%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%8B" alt="typing" />
 
 </div>
-
-### `> stats --dark`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d0014&title_color=b388ff&icon_color=ff5252&text_color=d1c4e9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d0014&title_color=b388ff&text_color=d1c4e9" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d0014&ring=ff5252&fire=ff5252&currStreakLabel=b388ff&sideLabels=d1c4e9&currStreakNum=d1c4e9&sideNums=d1c4e9&dates=7e57c2" />
+```
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
+```
 
-</div>
+### 👁️ кто здесь
 
----
+```python
+class Me:
+    name   = "YOUR_NAME"
+    alias  = "YOUR_USERNAME"
+    stack  = ["Python", "aiogram", "..."]
+    hours  = "когда все уже спят"
+    fear   = "unhandled exception"
+    palette = ("#000000", "#2a2a2a", "#d9d9d9")  # цвета только такие
+```
+
+### 🦷 обо мне
+
+- 🌑 пишу код ночью, когда тихо и никто не мешает
+- 🖐️ делаю ботов и автоматизацию: всё, что работает само, пока я не смотрю
+- 👁️ учу: *впиши, что изучаешь сейчас*
+- 🕯️ ищу: *впиши, чем хочешь заниматься или с кем коллабить*
+- 📫 связь: *Telegram / Discord / email*
+
+### 🩸 проекты
+
+| | проект | описание | стек |
+|---|---|---|---|
+| 👁️ | **project-one** | коротко о проекте | `Python` |
+| 🦷 | **project-two** | коротко о проекте | `...` |
+| 🖐️ | **project-three** | коротко о проекте | `...` |
+
+### 🕸️ инструменты
 
 <div align="center">
 
-`last seen: 03:00 — still not sleeping`
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=e8e8e8)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=e8e8e8)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=e8e8e8)
+![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=e8e8e8)
+![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=e8e8e8)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:3b0a45,100:0d0014&height=120&section=footer" width="100%" />
+</div>
+
+### 🌫️ статистика
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=f2f2f2&icon_color=bdbdbd&text_color=9e9e9e" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=f2f2f2&text_color=9e9e9e" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0a0a0a&ring=bdbdbd&fire=f2f2f2&currStreakLabel=f2f2f2&sideLabels=9e9e9e&currStreakNum=d9d9d9&sideNums=d9d9d9&dates=616161" />
+
+</div>
+
+<br/>
+
+```
+░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░
+```
+
+<div align="center">
+
+`ты всё ещё не спишь?`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8e8e8,50:2a2a2a,100:000000&height=120&section=footer" width="100%" />
 
 </div>
