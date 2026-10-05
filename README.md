@@ -89,7 +89,7 @@ class Me:
 
 <div align="center">
 
-<img src="[![IMG-7153.gif](https://i.postimg.cc/HLjw0Tfx/IMG-7153.gif)](https://postimg.cc/qtV64HBV)" width="55%" alt="" />
+<img src="(https://i.postimg.cc/HLjw0Tfx/IMG-7153.gif)" width="65%" alt="" />
 
 <br/>
 
