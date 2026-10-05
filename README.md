@@ -37,7 +37,7 @@ class Me:
 </table>
 
 
-## > cat about.txt
+### `> cat about.txt`
 
 <div align="center">
 
@@ -51,6 +51,7 @@ class Me:
 │  🩸  learning  playwright            │
 │  👁  motto     works while I'm away  │
 └──────────────────────────────────────┘
+```
 
 <p align="center">
   <a href="https://t.me/sosunpipisek">
@@ -61,10 +62,6 @@ class Me:
   </a>
 </p>
 
-</td>
-</tr>
-</table>
- 
 
 ### `> ./stack.sh`
 
